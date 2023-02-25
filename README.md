@@ -25,15 +25,15 @@ Pour cela je propose une application qui retourne après avoir identifié le pro
  Cette application affichera aussi les caractéristiques du produit :
  
  - Défauts :  A savoir trop gras, trop sucré, trop calorique, graisses saturés et présences d’additifs
-- Qualités : Peu de sel, BIO, Sans gluten, Sans huile de palme, Végétarien, absence d’additifs, présence de fibres
-- Présences d’additifs spécifiques causant quelques maladies comme l’hyperactivité
+ - Qualités : Peu de sel, BIO, Sans gluten, Sans huile de palme, Végétarien, absence d’additifs, présence de fibres
+ - Présences d’additifs spécifiques causant quelques maladies comme l’hyperactivité
 
 
 #### Livrables :
 
 - Un notebook du nettoyage des données (non cleané, pour comprendre votre démarche). 
 - Un notebook d’exploration comportant une analyse univariée, multivariée, une réduction dimensionnelle, ainsi que les différentes questions de recherches associées (non cleané, pour comprendre votre démarche).
-- Une présentation, à utiliser en support pour la soutenance, comprenant :
+- Une présentation :
 La présentation de votre idée d’application.
 Les opérations de nettoyage effectuées.
 La description et l'analyse univariée des différentes variables importantes avec les visualisations associées.
